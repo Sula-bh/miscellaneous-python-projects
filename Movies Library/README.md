@@ -1,7 +1,5 @@
 # Movie Library
 
-#### Video Demo: https://youtu.be/a4Z5Zoj9a5c
-
 #### Description:
 
 **Movie Library** is a Command Line Interface Python program to search and compare movies and TV series with ease. It makes use of the OMDb API to download comprehensive information about movies and series and print the information in a tabular, readable format. In addition to this, the program also features the option to export data to a CSV file so that users can store the data for future offline use.
