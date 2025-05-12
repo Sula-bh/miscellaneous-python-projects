@@ -1,0 +1,6 @@
+requests
+cowsay
+tabulate
+python-dotenv
+pytest
+pytest-mock
